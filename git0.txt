@@ -1,0 +1,24 @@
+#해당 폴더에서 cmd 창 열기
+
+#github과 연결
+git clone https://github.com/miniii222/0.start.git
+
+#해당 폴더에 repository 이름으로 폴더 생성
+
+#repository로 이동
+cd git_start
+
+#git status 확인
+git status
+##변경된 파일은 빨강색으로
+
+#commit : 내가 수정한 코드를 내 local저장소에 반영
+git add * 		#or git add 파일이름.확장자
+git status
+##파일이름 초록색으로
+
+#github에 함께 올라갈 message입력
+git commit -m "let's start git"
+
+#github에 올리기
+git push
