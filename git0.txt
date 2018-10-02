@@ -1,24 +1,26 @@
-#ÇØ´ç Æú´õ¿¡¼­ cmd Ã¢ ¿­±â
+#í•´ë‹¹ í´ë”ì—ì„œ cmd ì°½ ì—´ê¸°
 
-#github°ú ¿¬°á
+#githubê³¼ ì—°ê²°
 git clone https://github.com/miniii222/0.start.git
 
-#ÇØ´ç Æú´õ¿¡ repository ÀÌ¸§À¸·Î Æú´õ »ı¼º
+#í•´ë‹¹ í´ë”ì— repository ì´ë¦„ìœ¼ë¡œ í´ë” ìƒì„±
 
-#repository·Î ÀÌµ¿
+#repositoryë¡œ ì´ë™
 cd git_start
 
-#git status È®ÀÎ
+#git status í™•ì¸
 git status
-##º¯°æµÈ ÆÄÀÏÀº »¡°­»öÀ¸·Î
+##ë³€ê²½ëœ íŒŒì¼ì€ ë¹¨ê°•ìƒ‰ìœ¼ë¡œ
 
-#commit : ³»°¡ ¼öÁ¤ÇÑ ÄÚµå¸¦ ³» localÀúÀå¼Ò¿¡ ¹İ¿µ
-git add * 		#or git add ÆÄÀÏÀÌ¸§.È®ÀåÀÚ
+#commit : ë‚´ê°€ ìˆ˜ì •í•œ ì½”ë“œë¥¼ ë‚´ localì €ì¥ì†Œì— ë°˜ì˜
+git add * 		#or git add íŒŒì¼ì´ë¦„.í™•ì¥ì
 git status
-##ÆÄÀÏÀÌ¸§ ÃÊ·Ï»öÀ¸·Î
+##íŒŒì¼ì´ë¦„ ì´ˆë¡ìƒ‰ìœ¼ë¡œ
 
-#github¿¡ ÇÔ²² ¿Ã¶ó°¥ messageÀÔ·Â
+#githubì— í•¨ê»˜ ì˜¬ë¼ê°ˆ messageì…ë ¥
 git commit -m "let's start git"
+#addì—†ì´ commit
+git commit -a
 
-#github¿¡ ¿Ã¸®±â
+#githubì— ì˜¬ë¦¬ê¸°
 git push
