@@ -1,7 +1,7 @@
 Hot to use git markdown
 ========================
 
-https://gist.github.com/miniii222/4a2015e9f9e88392e29f364551bffe22 참고
+<https://gist.github.com/miniii222/4a2015e9f9e88392e29f364551bffe22> 참고
 
 *
 Link: [Google][googlelink]
