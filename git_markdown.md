@@ -5,4 +5,8 @@ Hot to use git markdown
   * <https://gist.github.com/ninanung/2b81a5db946c26c98c573e3662a92b62> 참고
 
 * 표 넣는 법
-  * <https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3> 참고
+  * 표 1
+  제목1 | 제목2 | 제목3 | 제목4
+  ---- | ---- | ---- | ----
+  본문1 | |본문2 | 본문3
+  ㅎ | ㅎ | ㅎ | 
